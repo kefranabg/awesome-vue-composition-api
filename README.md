@@ -14,6 +14,7 @@
 ## 🚀 Try it now !
 
 - [Vue2 composition API plugin](https://github.com/vuejs/composition-api)
+- [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next)
 
 ## 📺 Videos
 
