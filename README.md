@@ -23,6 +23,7 @@
 ## 📚 Articles / Cheat sheet
 
 - [Composition API cheat sheet](https://www.vuemastery.com/vue-3-cheat-sheet/)
+- [Vue 3: Start Using it Today](https://www.vuemastery.com/blog/vue-3-start-using-it-today/)
 - [Exciting new features in Vue3](https://vueschool.io/articles/vuejs-tutorials/exciting-new-features-in-vue-3/)
 - [Trying the composition API in Vue3](https://dev.to/dasdaniel/composition-api-in-vue3-2ob6)
 - [Using Vue Composition API with Firebase](https://dev.to/aaronksaunders/using-vue-composition-api-with-firebase-1oib)
