@@ -19,6 +19,7 @@
 ## 📺 Videos
 
 - [Vue Mastery courses](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/)
+- [Vue Composition API Introduction - Elad Cohen (Hebrew)](https://youtu.be/9rIzJaIsLkg)
 
 ## 📚 Articles / Cheat sheet
 
