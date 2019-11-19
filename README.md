@@ -28,6 +28,7 @@
 - [Trying the composition API in Vue3](https://dev.to/dasdaniel/composition-api-in-vue3-2ob6)
 - [Using Vue Composition API with Firebase](https://dev.to/aaronksaunders/using-vue-composition-api-with-firebase-1oib)
 - [Vue 3 Composition API](https://rimdev.io/vue-3-composition-api/)
+- [Easily switch to Composition API in Vue.js 3](https://vuedose.tips/tips/easily-switch-to-composition-api-in-vuejs-3/)
 
 ## 📄 RFC
 
