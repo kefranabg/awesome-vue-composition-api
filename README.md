@@ -48,3 +48,7 @@
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - 💚 Vue composition-api composable components
+
+## Tools
+
+- [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) - [WIP] Transforms Vue.js SFCs to composition API syntax.
