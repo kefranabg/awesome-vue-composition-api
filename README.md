@@ -50,4 +50,4 @@
 
 ## 🧰 Tools / Helper Libraries
 
-- [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) - [WIP] Transforms Vue.js SFCs to composition api syntax.
+- [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) - Transforms Vue.js SFCs to composition api syntax.
