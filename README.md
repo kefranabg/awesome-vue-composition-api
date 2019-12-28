@@ -48,6 +48,6 @@
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - 💚 Vue composition-api composable components
 
-## 🧰 Tools / Helper Libraries
+## 🔧 Tools / Helper libraries
 
 - [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) - Transforms Vue.js SFCs to composition api syntax
