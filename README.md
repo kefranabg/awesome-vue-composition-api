@@ -42,9 +42,12 @@
 
 ## ✨ Composition API functions
 
-
 - [vue-use-web](https://github.com/logaretm/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [vue-use-form](https://github.com/logaretm/vue-use-form) - ✅ A Vue.js composition API function to validate forms
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - 💚 Vue composition-api composable components
+
+## 🔧 Tools / Helper libraries
+
+- [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) - Transforms Vue.js SFCs to composition api syntax
