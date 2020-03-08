@@ -46,7 +46,8 @@
 - [vue-use-form](https://github.com/logaretm/vue-use-form) - ✅ A Vue.js composition API function to validate forms
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
-- [vue-composable](https://github.com/pikax/vue-composable) - 💚 Vue composition-api composable components
+- [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components
+- [vueuse](https://github.com/antfu/vueuse) - Collection of essential Vue Composition API (inspired by react-use)
 
 ## 🔧 Tools / Helper libraries
 
