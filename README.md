@@ -47,7 +47,7 @@
 - [vue-compose-promise](https://github.com/posva/vue-compose-promise) - 💝 Promises using vue composition API
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components
-- [vueuse](https://github.com/antfu/vueuse) - Collection of essential Vue Composition API (inspired by react-use)
+- [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
 
 ## 🔧 Tools / Helper libraries
 
