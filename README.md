@@ -48,6 +48,7 @@
 - [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components
 - [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
+- [vue-use-kit](https://github.com/microcipcip/vue-use-kit) - 🛠️ Useful collection of Vue composition API functions
 
 ## 🔧 Tools / Helper libraries
 
