@@ -51,6 +51,7 @@
 - [vue-use-kit](https://github.com/microcipcip/vue-use-kit) - 🛠️ Useful collection of Vue composition API functions
 - [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed
 - [vue-use](https://github.com/openfext/vue-use) - ✨ Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
+- [vue-use-switch-map](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator brought to the Vue composition world
 
 ## 🔧 Tools / Helper libraries
 
