@@ -39,6 +39,7 @@
 
 - [Composition API demos](https://github.com/LinusBorg/composition-api-demos)
 - [Vue3Todo](https://github.com/ShetlandJ/Vue3Todo)
+- [Realworld implementation using Vue 3 + TypeScript + Composition Api](https://github.com/mutoe/vue3-realworld-example-app) 
 
 ## ✨ Composition API functions
 
