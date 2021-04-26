@@ -39,6 +39,7 @@
 
 - [Composition API demos](https://github.com/LinusBorg/composition-api-demos)
 - [Vue3Todo](https://github.com/ShetlandJ/Vue3Todo)
+- [vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin)
 
 ## ✨ Composition API functions
 
